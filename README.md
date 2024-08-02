@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 🎧
 
-<!--
-**stefanydecarvalho/stefanydecarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Stefany Moura de Carvalho
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estoume densenvolvendo na linguagem javScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Você pode entrar em contato comigo 📫
+ 00001097723884sp@aleducacao.sp.gov.br
+
+ ![](https://media1.tenor.com/m/T7jLYEXvonMAAAAC/peach-goma.gif)
